@@ -20,3 +20,4 @@ Every modern browser has a JavaScript REPL built in.
 
 2. Node.js REPL
    Remember to commit and push when you're finished!
+Remember to commit and push when you're finished!
